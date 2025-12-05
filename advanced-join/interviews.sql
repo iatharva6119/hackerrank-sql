@@ -29,6 +29,7 @@ GROUP BY
     ,total_submissions
     ,total_accepted_submissions
 )
+     
 SELECT
       contest_id
     , c.hacker_id
